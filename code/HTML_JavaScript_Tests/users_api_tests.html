@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<head> </head>
+<body>
+  <p>Test users.php APIs:</p>
+
+  <div class="container"> 
+      <button onclick="getUsers()">Show All Users</button>
+  </div>
+
+  <div id="result" class="result">
+    Click the button above to test the API...
+  </div>
+
+  <br>
+
+  <form id="form" class="form">
+      User ID: <input type="text" name="userID"><br>
+    <input type="submit" value="Submit">
+  </form>
+
+  <div id="result2" class="result2">
+    Enter User ID above and click submit to test the API...
+  </div>
+
+  <br>
+
+  <form id="form2" class="form2">
+      User ID: <input type="text" name="id"><br>
+      User Name: <input type="text" name="name"><br>
+    <input type="submit" value="Submit">
+  </form>
+
+  <div id="result3" class="result3">
+    Enter User ID and User Name above and click submit to test the API...
+  </div>
+
+  <script>
+    async function getUsersInfo() {
+      try {
+        const response = await fetch('../api_code/users.php'); 
+        const data = await response.text();             
+        document.getElementById('result').textContent = 
+          data;                      
+      } catch (error) {
+        document.getElementById('result').textContent =
+          'Error: ' + error.message;              
+      }
+    }
+    function getUsers() {
+      getUsersInfo();
+      //My output: Found 1 users:<br>ID: 2 - Name: Test<br>
+    }
+
+    document.querySelector('form').addEventListener('submit' , async function (event) {
+      event.preventDefault(); 
+        
+      const form = event.target;
+      const formData = new FormData(form);
+      const userID = formData.get('userID');
+        
+      try {
+        const response = await fetch(`../api_code/users.php/${userID}`);
+        const data = await response.text();
+        document.getElementById('result2').textContent = 
+          data;
+      } catch (error) {
+        document.getElementById('result2').textContent =
+          'Error: ' + error.message;
+      }
+      //My output: Found 1 users:<br>ID: 2 - Name: Test<br>
+    });
+
+    document.querySelector('#form2').addEventListener('submit' , async function (event) {
+      event.preventDefault(); 
+        
+      const form = event.target;
+      const formData = new FormData(form);
+        
+      try {
+        const response = await fetch(`../api_code/users.php/`, {
+          method: 'POST',
+          body: formData
+        });
+        const data = await response.text();
+        document.getElementById('result3').textContent = 
+          data;
+      } catch (error) {
+        document.getElementById('result3').textContent =
+          'Error: ' + error.message;
+      }
+      //My output: User 'test' added successfully<br>
+    });
+
+//Sources:
+//Frontend with JavaScript.md, pages 16, 19, 20, 21
+//Handle_User_Inputs_and_Formats.md, pages 3, 9
+    </script>
+</body>
+</html>
