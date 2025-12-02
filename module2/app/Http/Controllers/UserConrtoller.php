@@ -7,13 +7,11 @@ use Illuminate\Http\Request;
 
 class UserController extends Controller
 {
-    // GET /users → Get all users
     public function index()
     {
         return User::all();
     }
 
-    // GET /users/{id} → Get user by ID
     public function show($id)
     {
         return User::findOrFail($id);
