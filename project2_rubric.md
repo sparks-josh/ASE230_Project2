@@ -219,14 +219,14 @@ Professor will regrade to add or subtract points.
 
 ## 🏁 Final Checks
 
-- [ ] I understand that I may deduct points if the results are of poor quality.
-- [ ] I understand that I may be reported as plagiarism if I used other work (including AI) without proper reference.
-- [ ] Pushed to GitHub
-- [ ] Zipped the code/document.
-- [ ] Checked there is no .git directory or any hidden directories included from the zipped file size (______). <- write the file sizes
-- [ ] Copy zipped files in correct directory: `code/`, `presentation/`, `plan/`  
-- [ ] Project ready for **professional portfolio showcase**  
-- [ ] Hugo site deployed to GitHub.io and accessible  
+- [X] I understand that I may deduct points if the results are of poor quality.
+- [X] I understand that I may be reported as plagiarism if I used other work (including AI) without proper reference.
+- [X] Pushed to GitHub
+- [X] Zipped the code/document.
+- [X] Checked there is no .git directory or any hidden directories included from the zipped file size (______). <- write the file sizes
+- [X] Copy zipped files in correct directory: `code/`, `presentation/`, `plan/`  
+- [X] Project ready for **professional portfolio showcase**  
+- [X] Hugo site deployed to GitHub.io and accessible  
 
 ---
 
@@ -234,7 +234,7 @@ Professor will regrade to add or subtract points.
 
 | Task                                    | Points  | Earned  |
 |-----------------------------------------|---------|---------|
-| 🔹 Laravel Implementation               | 40      | [ /40]  |
+| 🔹 Laravel Implementation               | 40      | [40/40]  |
 | 🔹 Deploy with a shell script           | 40      | [ /40]  |
 | 🔹 Deploy with Docker                   | 40      | [ /40]  |
 | 🔹 Re-implement Project 1 Documentation | 40      | [ /40]  |
