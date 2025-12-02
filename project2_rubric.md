@@ -50,11 +50,12 @@ A: Yes, the code directory should contain the Laravel code and scripts (module 2
 
 ## 🔹 Laravel Implementation (40 pts)
 
-- [ /15] Re-implemented Project 1 APIs using **Laravel framework** (must have same functionality as Project 1)
-  - List your Laravel API endpoints:
-  - [T/F] Uses Laravel routing and controllers properly
-- [ /15] Used **Eloquent ORM** for database operations (no raw SQL queries)
-  - List your Eloquent models:
+- [15/15] Re-implemented Project 1 APIs using **Laravel framework** (must have same functionality as Project 1)
+  - List your Laravel API endpoints: 
+get('/users', Route::get('/users/{id}', Route::post('/users', Route::get('/board', Route::get('/board/{id}', Route::post('/board', Route::get('/issues', Route::get('/issues/{id}', Route::post('/issues', Route::put('/issues/{id}', Route::patch('/issues/{id}/status', Route::post('/issues/{id}/comments'
+  - [T] Uses Laravel routing and controllers properly
+- [15/15] Used **Eloquent ORM** for database operations (no raw SQL queries)
+  - List your Eloquent models: BoardController.php, IssueCommentController.php, IssueController.php, UserController.php
   - [T/F] Proper model relationships implemented
 - [ /10] Implemented authentication using **Laravel Sanctum** or similar
   - Authentication method used:
