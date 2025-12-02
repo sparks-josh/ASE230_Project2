@@ -18,7 +18,7 @@ Total Points: 200
 **If you did not finish any of the tasks, do not check the item.**
 
 [X] I understand the policy & Rule.
-[ ] I uploaded all my project results (module2) to GitHub.
+[X] I uploaded all my project results (module2) to GitHub.
 [ ] I uploaded all my project document (module3) to GitHub.io.
 [ ] I zipped all of my project results (module2) in the submission.
 [ ] I zipped all of my project document (module3) in the submission.
@@ -28,8 +28,8 @@ Total Points: 200
 **The links to your GitHub repository and Zip file names**
 
 - Your ASE230 Project GitHub Repository: https://github.com/sparks-josh/ASE230_Project2
-  - GitHub Link to your code (module 2): https://github.com/sparks-josh/ASE230_Project2/tree/8da0741b48f3b83df31f6dd557b7a213a5d056db/code
-  - The Zip file name: project2 and size: ____
+  - GitHub Link to your code (module 2): https://github.com/sparks-josh/ASE230_Project2/tree/edd782412d12263c8d35835330bea3c939ee0089/module2
+  - The Zip file name: ____ and size: ____
   - GitHub.io Link (module 3): ___
   - The Zip file name: ___ and size: ____
 
