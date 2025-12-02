@@ -6,31 +6,20 @@ use App\Models\User;
 use Illuminate\Http\Request;
 
 class UserController extends Controller
-{
-    public function index()
-    {
-        return User::all();
-    }
-
+{public function index()
+    {return User::all();}
     public function show($id)
-    {
-        return User::findOrFail($id);
-    }
-
+    {return User::findOrFail($id);}
     public function store(Request $request)
-    {
-        $request->validate([
+    {$request->validate([
             'name' => 'required|string',
             'email' => 'required|email|unique:users',
-            'password' => 'required|string|min:6'
-        ]);
+            'password' => 'required|string|min:6']);
 
         $user = User::create([
             'name' => $request->name,
             'email' => $request->email,
-            'password' => bcrypt($request->password)
-        ]);
+            'password' => bcrypt($request->password)]);
 
-        return response()->json($user, 201);
-    }
+        return response()->json($user, 201);}
 }
