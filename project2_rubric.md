@@ -52,14 +52,15 @@ A: Yes, the code directory should contain the Laravel code and scripts (module 2
 
 - [15/15] Re-implemented Project 1 APIs using **Laravel framework** (must have same functionality as Project 1)
   - List your Laravel API endpoints: 
-get('/users', Route::get('/users/{id}', Route::post('/users', Route::get('/board', Route::get('/board/{id}', Route::post('/board', Route::get('/issues', Route::get('/issues/{id}', Route::post('/issues', Route::put('/issues/{id}', Route::patch('/issues/{id}/status', Route::post('/issues/{id}/comments'
+GET /users, GET /users/{id}, POST /users,
+GET /board, GET /board/{id}, POST /board, GET /issues, GET /issues/{id}, POST /issues, PUT /issues/{id}, PATCH /issues/{id}/status, POST /issues/{id}/comments
   - [T] Uses Laravel routing and controllers properly
-- [15/15] Used **Eloquent ORM** for database operations (no raw SQL queries)
-  - List your Eloquent models: BoardController.php, IssueCommentController.php, IssueController.php, UserController.php
-  - [T/F] Proper model relationships implemented
-- [ /10] Implemented authentication using **Laravel Sanctum** or similar
-  - Authentication method used:
-  - [T/F] Bearer token authentication working
+- [15] Used **Eloquent ORM** for database operations (no raw SQL queries)
+  - List your Eloquent models: User.php, Board.php, Issue.php, IssueComment.php
+  - [T] Proper model relationships implemented
+- [10/10] Implemented authentication using **Laravel Sanctum** or similar
+  - Authentication method used: Laravel Sanctum
+  - [T] Bearer token authentication working
 
 ---
 
@@ -75,13 +76,13 @@ The professor will regrade to add or subtract points.
 
 | Task                                      | Points | Earned  |
 |-------------------------------------------|--------|---------|
-| Laravel API endpoints (same as Project 1) | 15     | [ /15]  |
-| ↳ Uses Laravel routing/controllers        | T/F    | [ T/F ] |
-| Eloquent ORM usage (no raw SQL)           | 15     | [ /15]  |
-| ↳ Proper model relationships              | T/F    | [ T/F ] |
-| Laravel authentication implementation     | 10     | [ /10]  |
-| ↳ Bearer token authentication working     | T/F    | [ T/F ] |
-| **Total**                                 | **40** | [ /40]  |
+| Laravel API endpoints (same as Project 1) | 15     | [15/15]  |
+| ↳ Uses Laravel routing/controllers        | T/F    | [T] |
+| Eloquent ORM usage (no raw SQL)           | 15     | [15/15]  |
+| ↳ Proper model relationships              | T/F    | [T] |
+| Laravel authentication implementation     | 10     | [10/10]  |
+| ↳ Bearer token authentication working     | T/F    | [T] |
+| **Total**                                 | **40** | [40/40]  |
 
 ---
 
