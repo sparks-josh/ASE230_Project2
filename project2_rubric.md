@@ -93,10 +93,10 @@ The professor will regrade to add or subtract points.
   - [T] Properly adapted existing scripts for Laravel
 - [15/15] Created **automated deployment script** (`run.sh`) for one-command Laravel deployment
   - Script file name: run.sh
-  - [T/F] Script successfully deploys Laravel application
-- [ /10] Created a screen capture to show the script can start the Laravel REST API project
-  - GitHub Link or Filename of the screen capture:
-  - [T/F] Screen capture included
+  - [T] Script successfully deploys Laravel application
+- [10/10] Created a screen capture to show the script can start the Laravel REST API project
+  - GitHub Link or Filename of the screen capture: run.sh_screencapture
+  - [T] Screen capture included
 
 ---
 
