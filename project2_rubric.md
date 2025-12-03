@@ -148,7 +148,7 @@ A: You should prove that your code (or script) works by screen capture your outp
 ## 🔹 Re-implement Project 1 Documentation (40 pts)
 
 - [15/15] **Re-implemented Project 1 documentation** using Hugo (transformed from Marp)
-  - Hugo site structure created:
+  - Hugo site structure created: hugo.toml, portfolio.md,  NGINX Deployment.md, Tutorial Slides.md
   - [T] Successfully converted Marp to Hugo markdown
 - [15/15] **Added portfolio pages** to Hugo site
   - Portfolio pages added: portfolio.md
