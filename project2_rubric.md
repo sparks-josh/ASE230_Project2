@@ -95,7 +95,7 @@ The professor will regrade to add or subtract points.
   - Script file name: run.sh
   - [T] Script successfully deploys Laravel application
 - [10/10] Created a screen capture to show the script can start the Laravel REST API project
-  - GitHub Link or Filename of the screen capture: runsh_screencapture | https://github.com/sparks-josh/ASE230_Project2/blob/6a3736931119df3de0a3174ec3ccad731da6b641/presentation/Screen%20Captures/run.sh_screencapture.png
+  - GitHub Link or Filename of the screen capture: runsh_screencapture | https://github.com/sparks-josh/ASE230_Project2/blob/cd95d0c481986cd7263355b4dbc9c0cd39a817c8/presentation/Screen%20Captures/runsh_screencapture.png
   - [T] Screen capture included
 
 ---
