@@ -121,15 +121,15 @@ A: You should prove that your code (or script) works by screen capture your outp
 
 ## 🔹 Deploy with Docker (40 pts)
 
-- [ /15] **Containerized Laravel application** using Docker and Docker Compose
-  - Docker files created:
-  - [T/F] Dockerfile properly configured for Laravel
-- [ /15] Created **setup script** (`setup.sh`) for one-command Docker deployment
-  - Setup script file name:
-  - [T/F] Script successfully builds and runs Docker containers
-- [ /10] Created a screen capture to show the script can setup and run Docker
-  - GitHub Link or Filename of the screen capture:
-  - [T/F] Screen capture included
+- [15/15] **Containerized Laravel application** using Docker and Docker Compose
+  - Docker files created: docker-compose.yml, Dockerfile, setup.sh
+  - [T] Dockerfile properly configured for Laravel
+- [15/15] Created **setup script** (`setup.sh`) for one-command Docker deployment
+  - Setup script file name: setup.sh
+  - [T] Script successfully builds and runs Docker containers
+- [10/10] Created a screen capture to show the script can setup and run Docker
+  - GitHub Link or Filename of the screen capture: docker_screencapture | 
+  - [T] Screen capture included
 
 ---
 
