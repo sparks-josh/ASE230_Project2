@@ -154,7 +154,7 @@ A: You should prove that your code (or script) works by screen capture your outp
   - Portfolio pages added: portfolio.md
   - [T] Portfolio showcases ASE230 projects effectively
 - [10/10] Created a screen capture to show you can use Hugo to build web site for your portfolio
-  - GitHub Link or Filename of the screen capture: hugo_screencapture | 
+  - GitHub Link or Filename of the screen capture: hugo_screencapture | https://github.com/sparks-josh/ASE230_Project2/blob/8371ec5701871ef658d2b3aabc67bc8a1b82243e/presentation/Screen%20Captures/hugo_screencapture.png
   - [T] Screen capture included
 
 ---
@@ -237,9 +237,9 @@ Professor will regrade to add or subtract points.
 | 🔹 Laravel Implementation               | 40      | [40/40]  |
 | 🔹 Deploy with a shell script           | 40      | [40/40]  |
 | 🔹 Deploy with Docker                   | 40      | [40/40]  |
-| 🔹 Re-implement Project 1 Documentation | 40      | [ /40]  |
+| 🔹 Re-implement Project 1 Documentation | 40      | [40/40]  |
 | 🔹 Automatic Deploy to GitHub.io        | 40      | [ /40]  |
-| **Total**                               | **200** | [120/200] |
+| **Total**                               | **200** | [160/200] |
 
 ---
 
