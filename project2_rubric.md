@@ -161,13 +161,13 @@ A: You should prove that your code (or script) works by screen capture your outp
 
 | Task                             | Points | Earned  |
 |----------------------------------|--------|---------|
-| Hugo documentation (from Marp)   | 15     | [ /15]  |
-| ↳ Successfully converted to Hugo | T/F    | [ T/F ] |
-| Portfolio pages added to Hugo    | 15     | [ /15]  |
-| ↳ Effective project showcase     | T/F    | [ T/F ] |
-| Created a screen capture         | 10     | [ /10]  |
-| ↳ Clear success/failure messages | T/F    | [ T/F ] |
-| **Total**                        | **40** | [ /40]  |
+| Hugo documentation (from Marp)   | 15     | [15/15]  |
+| ↳ Successfully converted to Hugo | T/F    | [T] |
+| Portfolio pages added to Hugo    | 15     | [15/15]  |
+| ↳ Effective project showcase     | T/F    | [T] |
+| Created a screen capture         | 10     | [10/10]  |
+| ↳ Clear success/failure messages | T/F    | [T] |
+| **Total**                        | **40** | [40/40]  |
 
 ---
 
