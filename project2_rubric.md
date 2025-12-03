@@ -88,9 +88,9 @@ The professor will regrade to add or subtract points.
 
 ## 🔹 Deploy with a shell script (40 pts)
 
-- [ /15] Understand **existing shell script examples** from course materials as reference
-  - Reference materials used:
-  - [T/F] Properly adapted existing scripts for Laravel
+- [15/15] Understand **existing shell script examples** from course materials as reference
+  - Reference materials used: 1_Laravel, 2_ORM, 1_Docker
+  - [T] Properly adapted existing scripts for Laravel
 - [ /15] Created **automated deployment script** (`run.sh`) for one-command Laravel deployment
   - Script file name:
   - [T/F] Script successfully deploys Laravel application
