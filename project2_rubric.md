@@ -189,7 +189,7 @@ A2: As a starter, you can add your ASE230 projects (PHP/Laravel REST API impleme
 - [15/15] **Uploaded complete source to GitHub** for automatic transformation
   - GitHub repository URL: https://github.com/sparks-josh/sparks-josh-ASE230.github.io
   - [T] GitHub Actions successfully builds and deploys
-- [ /10] Created a screen capture to show you can run GitHub.io to deploy Hugo project
+- [10/10] Created a screen capture to show you can run GitHub.io to deploy Hugo project
   - GitHub Link or Filename of the screen capture: io_screencapture | 
   - [T] Screen capture included
 
@@ -207,13 +207,13 @@ Professor will regrade to add or subtract points.
 
 | Task                                  | Points | Earned  |
 |---------------------------------------|--------|---------|
-| GitHub.io publication                 | 15     | [ /15]  |
-| ↳ Site publicly accessible            | T/F    | [ T/F ] |
-| Complete source uploaded to GitHub    | 15     | [ /15]  |
-| ↳ GitHub Actions builds and deploys   | T/F    | [ T/F ] |
-| GitHub Actions workflow configuration | 10     | [ /10]  |
-| ↳ Automatic deployment on push        | T/F    | [ T/F ] |
-| **Total**                             | **40** | [ /40]  |
+| GitHub.io publication                 | 15     | [15/15]  |
+| ↳ Site publicly accessible            | T/F    | [T] |
+| Complete source uploaded to GitHub    | 15     | [15/15]  |
+| ↳ GitHub Actions builds and deploys   | T/F    | [T] |
+| GitHub Actions workflow configuration | 10     | [10/10]  |
+| ↳ Automatic deployment on push        | T/F    | [T] |
+| **Total**                             | **40** | [40/40]  |
 
 ---
 
