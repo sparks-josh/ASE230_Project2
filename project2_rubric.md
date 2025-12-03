@@ -31,7 +31,7 @@ Total Points: 200
   - GitHub Link to your code (module 2): https://github.com/sparks-josh/ASE230_Project2/tree/96de8a19b1218ded04a7d928c99a65691d294067/code91d52fca7f9a7fee043c69228515a6781b919bed/code/module2
   - The Zip file name: module2.zip and size: 31.8 MB
   - GitHub.io Link (module 3): (https://github.com/sparks-josh/sparks-josh-ASE230.github.io/blob/main/categories/index.xml)
-  - The Zip file name: project1.zip and size: 3.2 MB
+  - The Zip file name: module3.zip and size: 3.2 MB
 
 ---
 
