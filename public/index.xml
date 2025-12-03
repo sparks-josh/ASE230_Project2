@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>ASE 230 Project 2</title>
+    <link>https://sparks-josh.github.io/ASE230_Project2/</link>
+    <description>Recent content on ASE 230 Project 2</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sparks-josh.github.io/ASE230_Project2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NGINX Deployment</title>
-      <link>http://localhost:1313/nginx-deployment/</link>
+      <link>https://sparks-josh.github.io/ASE230_Project2/nginx-deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nginx-deployment/</guid>
+      <guid>https://sparks-josh.github.io/ASE230_Project2/nginx-deployment/</guid>
       <description>&lt;h1 id=&#34;project-1-nginx-deployment-slides&#34;&gt;Project 1 NGINX Deployment Slides&lt;/h1&gt;&#xA;&lt;p&gt;Joshua Sparks, Northern Kentucky University&lt;/p&gt;&#xA;&lt;p&gt;Prepared for: Prof. Samuel Cho, ASE 230, Fall 2025&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview:&lt;/h2&gt;&#xA;&lt;p&gt;The goal of this part of the project was to deploy the REST APIs with &lt;strong&gt;NGINX&lt;/strong&gt; in accordance to the following constraints:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deployment steps/tutorial documented in Marp slide (and converted into PDFs)&lt;/li&gt;&#xA;&lt;li&gt;full points if marp file is made with screen captures, no partial points&lt;/li&gt;&#xA;&lt;li&gt;A screen capture of your NGINX server working should be included&lt;/li&gt;&#xA;&lt;li&gt;Saved in &lt;code&gt;presentation/&lt;/code&gt; directory&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;steps&#34;&gt;Steps&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Locate the nginx.conf file, this can be done by executing &lt;code&gt;brew info nginx&lt;/code&gt;. Example location:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Portfolio</title>
-      <link>http://localhost:1313/portfolio/</link>
+      <link>https://sparks-josh.github.io/ASE230_Project2/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/</guid>
+      <guid>https://sparks-josh.github.io/ASE230_Project2/portfolio/</guid>
       <description>&lt;h1 id=&#34;project-1-nginx-deployment-slides&#34;&gt;Project 1 NGINX Deployment Slides&lt;/h1&gt;&#xA;&lt;p&gt;Joshua Sparks, Northern Kentucky University&lt;/p&gt;&#xA;&lt;p&gt;Prepared for: Prof. Samuel Cho, ASE 230, Fall 2025&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview:&lt;/h2&gt;&#xA;&lt;p&gt;The goal of this part of the project was to deploy the REST APIs with &lt;strong&gt;NGINX&lt;/strong&gt; in accordance to the following constraints:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deployment steps/tutorial documented in Marp slide (and converted into PDFs)&lt;/li&gt;&#xA;&lt;li&gt;full points if marp file is made with screen captures, no partial points&lt;/li&gt;&#xA;&lt;li&gt;A screen capture of your NGINX server working should be included&lt;/li&gt;&#xA;&lt;li&gt;Saved in &lt;code&gt;presentation/&lt;/code&gt; directory&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;steps&#34;&gt;Steps&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Locate the nginx.conf file, this can be done by executing &lt;code&gt;brew info nginx&lt;/code&gt;. Example location:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tutorial Slides</title>
-      <link>http://localhost:1313/tutorial-slides/</link>
+      <link>https://sparks-josh.github.io/ASE230_Project2/tutorial-slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tutorial-slides/</guid>
+      <guid>https://sparks-josh.github.io/ASE230_Project2/tutorial-slides/</guid>
       <description>&lt;h1 id=&#34;project-1-tutorial-slides&#34;&gt;Project 1 Tutorial Slides&lt;/h1&gt;&#xA;&lt;p&gt;Joshua Sparks, Northern Kentucky University&lt;/p&gt;&#xA;&lt;p&gt;Prepared for: Prof. Samuel Cho, ASE 230, Fall 2025&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview:&lt;/h2&gt;&#xA;&lt;p&gt;The goal of this project was to create a Jira-like ticketing system that accomplishes the following tasks:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Implement at least 8 rest APIs with at least 2 bearer tokens&lt;/li&gt;&#xA;&lt;li&gt;Allow for the creation of users, boards, issues, and comments&lt;/li&gt;&#xA;&lt;li&gt;Allow for the query of users, boards, issues, and comments by ID or all&lt;/li&gt;&#xA;&lt;li&gt;Allow for the authorized creation/update of board and issue information&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;database-tables-breakdown&#34;&gt;Database Tables Breakdown:&lt;/h3&gt;&#xA;&lt;pre&gt;&lt;code&gt;+---------------------+&#xA;| Tables_in_jira_lite |&#xA;+---------------------+&#xA;| boards              |&#xA;| comments            |&#xA;| issues              |&#xA;| users               |&#xA;+---------------------+&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;get_user-api&#34;&gt;get_user API&lt;/h2&gt;&#xA;&lt;pre&gt;&lt;code&gt;    function get_user($conn, $id) {&#xA;    $sql = &amp;quot;SELECT * FROM users WHERE id = ?&amp;quot;;&#xA;    $stmt = $conn-&amp;gt;prepare($sql);&#xA;    $stmt-&amp;gt;bind_param(&amp;quot;i&amp;quot;, $id);&#xA;    $stmt-&amp;gt;execute();&#xA;    $result = $stmt-&amp;gt;get_result();&#xA;&#xA;    if ($result-&amp;gt;num_rows &amp;gt; 0) {&#xA;        $row = $result-&amp;gt;fetch_assoc();&#xA;        echo &amp;quot;Found user: &amp;quot; . $row[&amp;quot;id&amp;quot;] . &amp;quot; (Name: &amp;quot; . $row[&amp;quot;name&amp;quot;] . &amp;quot;) &amp;lt;br&amp;gt;&amp;quot;;&#xA;    } else {&#xA;        echo &amp;quot;No User with ID $id&amp;lt;br&amp;gt;&amp;quot;;&#xA;    }&#xA;    $stmt-&amp;gt;close();&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;explanation-for-get_user-api&#34;&gt;Explanation for get_user API:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;SELECT * FROM users WHERE id = ?&#xA;&lt;ul&gt;&#xA;&lt;li&gt;selects all data from the users table where ID is the specified ID&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;$stmt-&amp;gt;bind_param(&amp;ldquo;i&amp;rdquo;, $id)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Binds the specified ID to the query&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;$stmt-&amp;gt;execute()&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Executes the query against the database&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;$result = $stmt-&amp;gt;get_result()&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Returns the results of the query&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;if ($result-&amp;gt;num_rows &amp;gt; 0)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Checks if any data was returned&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Yes -&amp;gt; the user&amp;rsquo;s ID and name is displayed&lt;/li&gt;&#xA;&lt;li&gt;No -&amp;gt; displays &amp;ldquo;No user with ID $id&amp;rdquo; message&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;examples&#34;&gt;Examples:&lt;/h3&gt;&#xA;&lt;p&gt;cURL Request:&lt;/p&gt;</description>
     </item>
   </channel>
