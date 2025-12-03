@@ -183,7 +183,7 @@ A2: As a starter, you can add your ASE230 projects (PHP/Laravel REST API impleme
 
 ## 🔹 Automatic Deploy to GitHub.io (40 pts)
 
-- [10/15] **Published documentation to GitHub.io** using GitHub Actions
+- [15/15] **Published documentation to GitHub.io** using GitHub Actions
   - GitHub.io site URL: https://sparks-josh-ase230.github.io
   - [T] Site is publicly accessible and functional
 - [15/15] **Uploaded complete source to GitHub** for automatic transformation
@@ -207,13 +207,13 @@ Professor will regrade to add or subtract points.
 
 | Task                                  | Points | Earned  |
 |---------------------------------------|--------|---------|
-| GitHub.io publication                 | 15     | [10/15]  |
+| GitHub.io publication                 | 15     | [15/15]  |
 | ↳ Site publicly accessible            | T/F    | [T] |
 | Complete source uploaded to GitHub    | 15     | [15/15]  |
 | ↳ GitHub Actions builds and deploys   | T/F    | [T] |
 | GitHub Actions workflow configuration | 10     | [10/10]  |
 | ↳ Automatic deployment on push        | T/F    | [T] |
-| **Total**                             | **40** | [35/40]  |
+| **Total**                             | **40** | [40/40]  |
 
 ---
 
@@ -238,8 +238,8 @@ Professor will regrade to add or subtract points.
 | 🔹 Deploy with a shell script           | 40      | [40/40]  |
 | 🔹 Deploy with Docker                   | 40      | [40/40]  |
 | 🔹 Re-implement Project 1 Documentation | 40      | [40/40]  |
-| 🔹 Automatic Deploy to GitHub.io        | 40      | [35/40]  |
-| **Total**                               | **200** | [195/200] |
+| 🔹 Automatic Deploy to GitHub.io        | 40      | [40/40]  |
+| **Total**                               | **200** | [200/200] |
 
 ---
 
