@@ -223,7 +223,7 @@ Professor will regrade to add or subtract points.
 - [X] I understand that I may be reported as plagiarism if I used other work (including AI) without proper reference.
 - [X] Pushed to GitHub
 - [X] Zipped the code/document.
-- [X] Checked there is no .git directory or any hidden directories included from the zipped file size (______). <- write the file sizes
+- [X] Checked there is no .git directory or any hidden directories included from the zipped file size (31.8 MB & 3.2 MB). <- write the file sizes
 - [X] Copy zipped files in correct directory: `code/`, `presentation/`, `plan/`  
 - [X] Project ready for **professional portfolio showcase**  
 - [X] Hugo site deployed to GitHub.io and accessible  
