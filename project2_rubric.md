@@ -19,19 +19,19 @@ Total Points: 200
 
 [X] I understand the policy & Rule.
 [X] I uploaded all my project results (module2) to GitHub.
-[ ] I uploaded all my project document (module3) to GitHub.io.
-[ ] I zipped all of my project results (module2) in the submission.
-[ ] I zipped all of my project document (module3) in the submission.
+[X] I uploaded all my project document (module3) to GitHub.io.
+[X] I zipped all of my project results (module2) in the submission.
+[X] I zipped all of my project document (module3) in the submission.
 
 ---
 
 **The links to your GitHub repository and Zip file names**
 
 - Your ASE230 Project GitHub Repository: https://github.com/sparks-josh/ASE230_Project2
-  - GitHub Link to your code (module 2): https://github.com/sparks-josh/ASE230_Project2/tree/91d52fca7f9a7fee043c69228515a6781b919bed/code/module2
-  - The Zip file name: ____ and size: ____
-  - GitHub.io Link (module 3): ___
-  - The Zip file name: ___ and size: ____
+  - GitHub Link to your code (module 2): https://github.com/sparks-josh/ASE230_Project2/tree/96de8a19b1218ded04a7d928c99a65691d294067/code91d52fca7f9a7fee043c69228515a6781b919bed/code/module2
+  - The Zip file name: module2.zip and size: 31.8 MB
+  - GitHub.io Link (module 3): (https://github.com/sparks-josh/sparks-josh-ASE230.github.io/blob/main/categories/index.xml)
+  - The Zip file name: project1.zip and size: 3.2 MB
 
 ---
 
@@ -190,7 +190,7 @@ A2: As a starter, you can add your ASE230 projects (PHP/Laravel REST API impleme
   - GitHub repository URL: https://github.com/sparks-josh/sparks-josh-ASE230.github.io
   - [T] GitHub Actions successfully builds and deploys
 - [10/10] Created a screen capture to show you can run GitHub.io to deploy Hugo project
-  - GitHub Link or Filename of the screen capture: io_screencapture | 
+  - GitHub Link or Filename of the screen capture: io_screencapture | https://github.com/sparks-josh/ASE230_Project2/blob/96de8a19b1218ded04a7d928c99a65691d294067/presentation/Screen%20Captures/io_screencapture.png
   - [T] Screen capture included
 
 ---
@@ -238,8 +238,8 @@ Professor will regrade to add or subtract points.
 | 🔹 Deploy with a shell script           | 40      | [40/40]  |
 | 🔹 Deploy with Docker                   | 40      | [40/40]  |
 | 🔹 Re-implement Project 1 Documentation | 40      | [40/40]  |
-| 🔹 Automatic Deploy to GitHub.io        | 40      | [ /40]  |
-| **Total**                               | **200** | [160/200] |
+| 🔹 Automatic Deploy to GitHub.io        | 40      | [40/40]  |
+| **Total**                               | **200** | [200/200] |
 
 ---
 
