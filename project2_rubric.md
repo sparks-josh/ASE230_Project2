@@ -183,15 +183,15 @@ A2: As a starter, you can add your ASE230 projects (PHP/Laravel REST API impleme
 
 ## 🔹 Automatic Deploy to GitHub.io (40 pts)
 
-- [ /15] **Published documentation to GitHub.io** using GitHub Actions
-  - GitHub.io site URL:
-  - [T/F] Site is publicly accessible and functional
-- [ /15] **Uploaded complete source to GitHub** for automatic transformation
-  - GitHub repository URL:
-  - [T/F] GitHub Actions successfully builds and deploys
+- [15/15] **Published documentation to GitHub.io** using GitHub Actions
+  - GitHub.io site URL: https://sparks-josh-ase230.github.io
+  - [T] Site is publicly accessible and functional
+- [15/15] **Uploaded complete source to GitHub** for automatic transformation
+  - GitHub repository URL: https://github.com/sparks-josh/sparks-josh-ASE230.github.io
+  - [T] GitHub Actions successfully builds and deploys
 - [ /10] Created a screen capture to show you can run GitHub.io to deploy Hugo project
-  - GitHub Link or Filename of the screen capture:
-  - [T/F] Screen capture included
+  - GitHub Link or Filename of the screen capture: io_screencapture | 
+  - [T] Screen capture included
 
 ---
 
