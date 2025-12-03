@@ -95,20 +95,20 @@ The professor will regrade to add or subtract points.
   - Script file name: run.sh
   - [T] Script successfully deploys Laravel application
 - [10/10] Created a screen capture to show the script can start the Laravel REST API project
-  - GitHub Link or Filename of the screen capture: run.sh_screencapture
+  - GitHub Link or Filename of the screen capture: run.sh_screencapture | https://github.com/sparks-josh/ASE230_Project2/blob/6a3736931119df3de0a3174ec3ccad731da6b641/presentation/Screen%20Captures/run.sh_screencapture.png
   - [T] Screen capture included
 
 ---
 
 | Task                                  | Points | Earned  |
 |---------------------------------------|--------|---------|
-| Automated deployment script (run.sh)  | 15     | [ /15]  |
-| ↳ Script successfully deploys Laravel | T/F    | [ T/F ] |
-| Used existing shell script examples   | 15     | [ /15]  |
-| ↳ Properly adapted for Laravel        | T/F    | [ T/F ] |
-| Created a screen capture              | 10     | [ /10]  |
-| ↳ Clear success/failure messages      | T/F    | [ T/F ] |
-| **Total**                             | **40** | [ /40]  |
+| Automated deployment script (run.sh)  | 15     | [15/15]  |
+| ↳ Script successfully deploys Laravel | T/F    | [T] |
+| Used existing shell script examples   | 15     | [15/15]  |
+| ↳ Properly adapted for Laravel        | T/F    | [T] |
+| Created a screen capture              | 10     | [10/10]  |
+| ↳ Clear success/failure messages      | T/F    | [T] |
+| **Total**                             | **40** | [40/40]  |
 
 ---
 
