@@ -128,34 +128,34 @@ A: You should prove that your code (or script) works by screen capture your outp
   - Setup script file name: setup.sh
   - [T] Script successfully builds and runs Docker containers
 - [10/10] Created a screen capture to show the script can setup and run Docker
-  - GitHub Link or Filename of the screen capture: docker_screencapture | 
+  - GitHub Link or Filename of the screen capture: docker_screencapture | https://github.com/sparks-josh/ASE230_Project2/blob/dd6b001a3975977ee387d7aa67e4ecca2e731311/presentation/Screen%20Captures/docker_screencapture.png
   - [T] Screen capture included
 
 ---
 
 | Task                                  | Points | Earned  |
 |---------------------------------------|--------|---------|
-| Docker containerization (Laravel app) | 15     | [ /15]  |
-| ↳ Dockerfile properly configured      | T/F    | [ T/F ] |
-| Setup script for Docker deployment    | 15     | [ /15]  |
-| ↳ Script builds and runs containers   | T/F    | [ T/F ] |
-| Created a screen capture              | 10     | [ /10]  |
-| ↳ Clear success/failure messages      | T/F    | [ T/F ] |
-| **Total**                             | **40** | [ /40]  |
+| Docker containerization (Laravel app) | 15     | [15/15]  |
+| ↳ Dockerfile properly configured      | T/F    | [T] |
+| Setup script for Docker deployment    | 15     | [15/15]  |
+| ↳ Script builds and runs containers   | T/F    | [T] |
+| Created a screen capture              | 10     | [10/10]  |
+| ↳ Clear success/failure messages      | T/F    | [T] |
+| **Total**                             | **40** | [40/40]  |
 
 ---
 
 ## 🔹 Re-implement Project 1 Documentation (40 pts)
 
-- [ /15] **Re-implemented Project 1 documentation** using Hugo (transformed from Marp)
+- [15/15] **Re-implemented Project 1 documentation** using Hugo (transformed from Marp)
   - Hugo site structure created:
-  - [T/F] Successfully converted Marp to Hugo markdown
-- [ /15] **Added portfolio pages** to Hugo site
-  - Portfolio pages added:
-  - [T/F] Portfolio showcases ASE230 projects effectively
-- [ /10] Created a screen capture to show you can use Hugo to build web site for your portfolio
-  - GitHub Link or Filename of the screen capture:
-  - [T/F] Screen capture included
+  - [T] Successfully converted Marp to Hugo markdown
+- [15/15] **Added portfolio pages** to Hugo site
+  - Portfolio pages added: portfolio.md
+  - [T] Portfolio showcases ASE230 projects effectively
+- [10/10] Created a screen capture to show you can use Hugo to build web site for your portfolio
+  - GitHub Link or Filename of the screen capture: hugo_screencapture | 
+  - [T] Screen capture included
 
 ---
 
@@ -236,10 +236,10 @@ Professor will regrade to add or subtract points.
 |-----------------------------------------|---------|---------|
 | 🔹 Laravel Implementation               | 40      | [40/40]  |
 | 🔹 Deploy with a shell script           | 40      | [40/40]  |
-| 🔹 Deploy with Docker                   | 40      | [ /40]  |
+| 🔹 Deploy with Docker                   | 40      | [40/40]  |
 | 🔹 Re-implement Project 1 Documentation | 40      | [ /40]  |
 | 🔹 Automatic Deploy to GitHub.io        | 40      | [ /40]  |
-| **Total**                               | **200** | [ /200] |
+| **Total**                               | **200** | [120/200] |
 
 ---
 
